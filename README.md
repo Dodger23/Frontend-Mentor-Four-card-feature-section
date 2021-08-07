@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.png)
+![Screenshot](./images/screenshot.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/Dodger23/Frontend-Mentor-Four-card-feature-section)
+- Live Site URL: [Vercel](https://frontend-mentor-four-card-feature-section-five-topaz.vercel.app/)
 
 ### Built with
 
