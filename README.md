@@ -12,7 +12,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./screenshot.png)
 
 
 ### Links
@@ -42,5 +41,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Dodger23)
-- LinkedIn - [@yourusername](https://www.linkedin.com/in/tarek-a-hassan/)
+- Frontend Mentor - [@Dodger23](https://www.frontendmentor.io/profile/Dodger23)
+- LinkedIn - [@yTarek-Hassan](https://www.linkedin.com/in/tarek-a-hassan/)
